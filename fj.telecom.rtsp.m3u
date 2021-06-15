@@ -9,8 +9,7 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m
 rtsp://27.148.219.129:554/live/ch15102717162070203827.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162070203827&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlvKI11OWuBsstWqQszeVDttcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 ,tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
 rtsp://27.148.219.129:554/live/ch17092208064869858322.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208064869858322&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwJPPOs560ILJc4KpVFFgelPtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 ,tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3综艺(安康移动)
-http://39.134.24.24/TVOD/88888888/224/3221226023/index.m3u8
+
 #EXTINF:-1 ,tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4中文国际
 rtsp://27.148.219.129:554/live/ch17081011542536199690.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081011542536199690&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ua7JKAOanUQE3SUt988pGyyEzRyUwU0evCPJtTeGO8KhtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 ,tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5体育(安康移动)
@@ -127,44 +126,14 @@ rtsp://27.148.219.129:554/live/ch15102717162009517302.sdp?playtype=1&boid=001&ba
 rtsp://27.148.219.129:554/live/ch17041318323608461611.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17041318323608461611&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucHtYhAF0s6wwh48Op25iOmev1F5PtW2MjhQ44pQ4CSytcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建少儿
 rtsp://27.148.219.129:554/live/ch15102717162041774825.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162041774825&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkNDqvWMOeCbhp%2B%2Fa4FtAaXtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建乡村振兴公共(地方移动8M)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建乡村振兴公共(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226907/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑莓动画(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑莓电竞(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑莓电影(河池移动)
-http://111.12.102.68:6610/PLTV/77777777/224/3221225740/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV精品记录(河池移动)
-http://111.12.102.68:6610/PLTV/77777777/224/3221225681/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV精品体育(河池移动)
-http://111.12.102.68:6610/PLTV/77777777/224/3221225724/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV精品大剧(河池移动)
-http://111.12.102.68:6610/PLTV/77777777/224/3221225737/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV中国功夫(河池移动)
-http://111.12.102.68:6610/PLTV/77777777/224/3221225690/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV爱情喜剧(河池移动)
-http://111.12.102.68:6610/PLTV/77777777/224/3221225698/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV动作电影(河池移动)
-http://111.12.102.68:6610/PLTV/77777777/224/3221225703/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV军旅剧场(河池移动)
-http://111.12.102.68:6610/PLTV/77777777/224/3221225727/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV炫舞未来(河池移动)
-http://111.12.102.68:6610/PLTV/77777777/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV家庭剧场(河池移动)
-http://111.12.102.68:6610/PLTV/77777777/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV军事评论(河池移动)
-http://111.12.102.68:6610/PLTV/77777777/224/3221225749/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV武博世界(河池移动)
-http://111.12.102.68:6610/PLTV/77777777/224/3221225758/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV农业致富(河池移动)
-http://111.12.102.68:6610/PLTV/77777777/224/3221225687/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV怡伴健康(河池移动)
-http://111.12.102.68:6610/PLTV/77777777/224/3221225684/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV东北热剧(河池移动)
-http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV爱情喜剧(河池移动)
-http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV动作电影(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV古装剧场(福建移动4M)
@@ -187,8 +156,7 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV金牌综艺(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV搏击运动(移动)
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV动作电影(移动)
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV动画王国(南京移动)
@@ -210,12 +178,6 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227029/index.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="地方",SiTV全纪实(上海联通)
 http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",SiTV都市剧场(上海联通)
-http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",SiTV动漫秀场(上海联通)
-http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",SiTV都市剧场(兰州移动)
-http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方",湖南金鹰卡通(福建移动7M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
@@ -246,7 +208,5 @@ http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 
 #EXTINF:-1 ,tvg-id="" tvg-name="爱上4K（移动）" tvg-logo="" group-title="地方B",爱上4K(安康移动)
 http://39.134.24.24/TVOD/88888888/224/3221226005/index.m3u8
-#EXTINF:-1 ,tvg-id="" tvg-name="纯享4K" tvg-logo="" group-title="地方B",纯享4K(河池移动)
-http://111.12.102.68:6610/PLTV/77777777/224/3221225726/index.m3u8
 #EXTINF:-1 ,tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视B",CCTV-7国防军事
 rtsp://27.148.219.129:554/live/ch17092208080814677315.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208080814677315&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwJfeqIynThSnMQUlmZG4XzktcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
