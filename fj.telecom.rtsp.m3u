@@ -67,7 +67,7 @@ http://39.134.24.24/PLTV/88888888/224/3221225835/index.m3u8
 http://39.134.24.24/PLTV/88888888/224/3221225847/index.m3u8
 #EXTINF:-1 ,tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 rtsp://27.148.219.129:554/live/ch15102717162184416594.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162184416594&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkGU1bqbl%2FYuy2e0PG2wNtWtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 ,tvg-id="34" tvg-name="深圳卫视" tvg-logo="hhttp://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视(安康移动12M)
+#EXTINF:-1 ,tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视(安康移动12M)
 http://39.134.24.24/PLTV/88888888/224/3221225843/index.m3u8
 #EXTINF:-1 ,tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 rtsp://27.148.219.129:554/live/ch18010423255574195595.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18010423255574195595&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uXFx9rA7x0PJXOhSuStbriXgD1uF4Qnrn7rUlS3MhdE0tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
@@ -189,7 +189,7 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226141/index.m
 
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方",湖南金鹰卡通(福建移动7M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
-#EXTINF:-1 ,tvg-id="169" tvg-name="纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方",上海纪实
+#EXTINF:-1 ,tvg-id="169" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方",上海纪实
 rtsp://27.148.219.129:554/live/ch17081012003923835755.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081012003923835755&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufulvucnQgYvxuYj2ObQUnQoD9AwrzYYOQdpttfUjhaLtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 ,tvg-id="170" tvg-name="都市剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",都市剧场
 rtsp://27.148.219.129:554/live/ch16091400394519752904.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16091400394519752904&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ue3OERCfGYXv%2BfB7OsxsQ1I%2FOGlGIjuF8wudq6aVTXbftcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
@@ -206,7 +206,7 @@ http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 
 
 
-#EXTINF:-1 ,tvg-id="" tvg-name="爱上4K（移动）" tvg-logo="" group-title="地方B",爱上4K(安康移动)
+#EXTINF:-1 ,tvg-id="" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="卫视B",爱上4K(安康移动)
 http://39.134.24.24/TVOD/88888888/224/3221226005/index.m3u8
 #EXTINF:-1 ,tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视B",东方卫视
 rtsp://27.148.219.129:554/live/ch15102717162086242155.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162086242155&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnoE48cDP3VQ84hqDmstY5CtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
