@@ -178,8 +178,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SiTV动漫秀场" tvg-logo="" group-title="地方",SiTV动漫秀场(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SiTV都市剧场" tvg-logo="" group-title="地方",SiTV都市剧场(陕西移动8M)
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
+#EXTINF:-1 ,tvg-id="170" tvg-name="SiTV都市剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",SiTV都市剧场
+rtsp://27.148.219.129:554/live/ch16091400394519752904.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16091400394519752904&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ue3OERCfGYXv%2BfB7OsxsQ1I%2FOGlGIjuF8wudq6aVTXbftcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 ,tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场4K(陕西移动12M)
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 #EXTINF:-1 ,tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="地方",生活时尚
@@ -193,8 +193,6 @@ rtsp://27.148.219.129:554/live/ch19061315471496603667.sdp?playtype=1&boid=001&ba
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
 #EXTINF:-1 ,tvg-id="169" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方",上海纪实
 rtsp://27.148.219.129:554/live/ch17081012003923835755.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081012003923835755&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufulvucnQgYvxuYj2ObQUnQoD9AwrzYYOQdpttfUjhaLtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 ,tvg-id="170" tvg-name="都市剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",都市剧场
-rtsp://27.148.219.129:554/live/ch16091400394519752904.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16091400394519752904&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ue3OERCfGYXv%2BfB7OsxsQ1I%2FOGlGIjuF8wudq6aVTXbftcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 ,tvg-id="" tvg-name="陶瓷" tvg-logo="" group-title="地方",江西陶瓷
 rtsp://27.148.219.129:554/live/ch17081012023517451748.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081012023517451748&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufulvucnQgYvxuYj2ObQUnQZbi9e3Bt09ozBM2ESiwZ7tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 tvg-id="77" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="地方",求索纪录(七台河移动)
