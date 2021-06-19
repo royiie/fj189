@@ -46,11 +46,11 @@ rtsp://27.148.219.129:554/live/ch17092208120898287250.sdp?playtype=1&boid=001&ba
 rtsp://27.148.219.129:554/live/ch15102717162037072744.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162037072744&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlvY2g8SzF4nir%2FMoPrl55otcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
 rtsp://27.148.219.129:554/live/ch19073116244855666953.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19073116244855666953&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uYlmqEeSiY7ilafGBzytHgeQXMXS1D9Bq7YYS3stvjq5tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影(渭南移动8M)
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/chchd.jpg" group-title="地方",CHC高清电影(渭南移动8M)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影(陕西移动8M)
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/chcdzdy.jpg" group-title="地方",CHC动作电影(陕西移动8M)
 http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院(陕西移动8M)
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/chcjtyy.jpg" group-title="地方",CHC家庭影院(陕西移动8M)
 http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226462/index.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
@@ -106,26 +106,26 @@ rtsp://27.148.219.129:554/live/ch18051116194226346624.sdp?playtype=1&boid=001&ba
 rtsp://27.148.219.129:554/live/ch18111315332814229891.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18111315332814229891&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufWZ3EBMxzTZiJKrPuww3bIuRLc0Ijl9Db2%2BCzbFOhxptcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 rtsp://27.148.219.129:554/live/ch15102717162125393898.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162125393898&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrk2EGR42Q3pRUep%2FWHWmwB%2FtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HXTV/HXTV.jpg?1" group-title="地方",海峡卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/haixiatv.jpg" group-title="地方",海峡卫视
 rtsp://27.148.219.129:554/live/ch17033111334107910034.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17033111334107910034&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubtTdIJCMYA5YzDa0YF1fIC2cN8doK0zGTVUThL7iS22tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 
 #EXTINF:-1 tvg-id="73" tvg-name="教育卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="地方",中国教育1台
 rtsp://27.148.219.129:554/live/ch17081012040985783403.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081012040985783403&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufulvucnQgYvxuYj2ObQUnRPOwC1kGvgGgf2PZxi%2FkP8tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV1/FJTV1.jpg?1" group-title="地方",福建综合
+#EXTINF:-1 tvg-id="" tvg-name="福建综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/fjtv1.jpg" group-title="地方",福建综合
 rtsp://27.148.219.129:554/live/ch18122115512978075826.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18122115512978075826&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uV8vrVVUWyrQhbVQ%2BpNmgiJi%2BBf0vCMeagcVdGQMouH3tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV3/FJTV3.jpg?1" group-title="地方",福建乡村振兴公共
+#EXTINF:-1 tvg-id="" tvg-name="福建乡村振兴公共" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV3/FJTV3.jpg?1" group-title="地方",福建乡村振兴公共
 rtsp://27.148.219.129:554/live/ch15102710565314111610.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102710565314111610&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQbgHoMPMbQhuo7ruVZoAa2Qt%2BAnb32XZUZzgl2r7BU2tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV4/FJTV4.jpg?1" group-title="地方",福建新闻
+#EXTINF:-1 tvg-id="" tvg-name="福建新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/fjtv4.jpg" group-title="地方",福建新闻
 rtsp://27.148.219.129:554/live/ch15102712014936453054.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102712014936453054&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uRHJnj0PWLtYvp0FBZqC2E68leUsZRGjr3kSuaxn8%2BrctcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV5/FJTV5.jpg?1" group-title="地方",福建电视剧
+#EXTINF:-1 tvg-id="" tvg-name="福建电视剧" tvg-logo="http://www.tvyan.com/uploads/dianshi/fjtv5.jpg" group-title="地方",福建电视剧
 rtsp://27.148.219.129:554/live/ch15102717162032881873.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162032881873&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlfRMO13qUTDugvkPreeeOetcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV6/FJTV6.jpg?1" group-title="地方",福建旅游
+#EXTINF:-1 tvg-id="" tvg-name="福建旅游" tvg-logo="http://www.tvyan.com/uploads/dianshi/fjtv6.jpg" group-title="地方",福建旅游
 rtsp://27.148.219.129:554/live/ch15102717162061906016.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162061906016&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrl6J0Gbl2ODo8ZJDYSU5ZOqtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV7/FJTV7.jpg?1" group-title="地方",福建经济
+#EXTINF:-1 tvg-id="" tvg-name="福建经济" tvg-logo="http://www.tvyan.com/uploads/dianshi/fjtv7.jpg" group-title="地方",福建经济
 rtsp://27.148.219.129:554/live/ch15102717162009517302.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162009517302&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlYZl5heb%2FqGZQm6c9bFD1ztcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="" tvg-name="http://pix1.tvzhe.com/images/logo/channel/FJTV8/FJTV8.jpg?1" tvg-logo="" group-title="地方",福建体育
+#EXTINF:-1 tvg-id="" tvg-name="福建体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/fjtv8.jpg" group-title="地方",福建体育
 rtsp://27.148.219.129:554/live/ch17041318323608461611.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17041318323608461611&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucHtYhAF0s6wwh48Op25iOmev1F5PtW2MjhQ44pQ4CSytcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV9/FJTV9.jpg?1" group-title="地方",福建少儿
+#EXTINF:-1 tvg-id="" tvg-name="福建少儿" tvg-logo="http://www.tvyan.com/uploads/dianshi/fjtv9.jpg" group-title="地方",福建少儿
 rtsp://27.148.219.129:554/live/ch15102717162041774825.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162041774825&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkNDqvWMOeCbhp%2B%2Fa4FtAaXtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电影(福建移动8M)
@@ -153,43 +153,43 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/index.m
 http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV超级电影(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225926/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV精品大剧" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P426223G10-L.jpg" group-title="地方",NewTV精品大剧(福建移动4M)
+#EXTINF:-1 tvg-id="" tvg-name="NewTV精品大剧" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdaju.jpg" group-title="地方",NewTV精品大剧(福建移动4M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225889/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV军事评论" tvg-logo="http://www.nettv.live/uploads/18/1-1P426221943132.jpg" group-title="地方",NewTV军事评论(福建移动4M)
+#EXTINF:-1 tvg-id="" tvg-name="NewTV军事评论" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjspl.jpg" group-title="地方",NewTV军事评论(福建移动4M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225890/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV动作电影" tvg-logo="http://www.nettv.live/uploads/19/1-191215202451457.jpg" group-title="地方",NewTV动作电影(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV古装剧场(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV家庭剧场" tvg-logo="http://www.nettv.live/uploads/18/1-1P426224331251.jpg" group-title="地方",NewTV家庭剧场(福建移动4M)
+#EXTINF:-1 tvg-id="" tvg-name="NewTV家庭剧场" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjiating.jpg" group-title="地方",NewTV家庭剧场(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225882/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="http://www.nettv.live/uploads/18/1-1P42622394O34.jpg" group-title="地方",NewTV惊悚悬疑(福建移动4M)
+#EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjingsong.jpg" group-title="地方",NewTV惊悚悬疑(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225885/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV海外剧场(福建移动4M)
+#EXTINF:-1 tvg-id="" tvg-name="NewTV海外剧场" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvhaiwai.jpg" group-title="地方",NewTV海外剧场(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV潮妈辣婆" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P4262254200-L.jpg" group-title="地方",NewTV潮妈辣婆(福建移动4M)
+#EXTINF:-1 tvg-id="" tvg-name="NewTV潮妈辣婆" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvlama.jpg" group-title="地方",NewTV潮妈辣婆(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV精品体育" tvg-logo="http://www.nettv.live/uploads/18/1-1P426222R1296.jpg" group-title="地方",NewTV精品体育(福建移动4M)
+#EXTINF:-1 tvg-id="" tvg-name="NewTV精品体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjpty.jpg" group-title="地方",NewTV精品体育(福建移动4M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225886/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV超级体育(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV超级综艺(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV金牌综艺(福建移动4M)
+#EXTINF:-1 tvg-id="" tvg-name="NewTV金牌综艺" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvzongyi.jpg" group-title="地方",NewTV金牌综艺(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV动画王国(南京移动4M)
+#EXTINF:-1 tvg-id="" tvg-name="NewTV动画王国" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdonghua.jpg" group-title="地方",NewTV动画王国(南京移动4M)
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV海外剧场(景德镇移动4M)
+#EXTINF:-1 tvg-id="" tvg-name="NewTV海外剧场" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvhaiwai.jpg" group-title="地方",NewTV海外剧场(景德镇移动4M)
 http://117.169.119.199:8080/live/xiqumd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV欢乐剧场(哈尔滨移动4M)
 http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV爱情喜剧(福建移动4M)
+#EXTINF:-1 tvg-id="" tvg-name="NewTV爱情喜剧" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvxiju.jpg" group-title="地方",NewTV爱情喜剧(福建移动4M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225877/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV怡伴健康(福建移动4M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225883/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV军旅剧场" tvg-logo="http://www.nettv.live/uploads/18/1-1P4262226352Z.jpg" group-title="地方",NewTV军旅剧场(福建移动4M)
+#EXTINF:-1 tvg-id="" tvg-name="NewTV军旅剧场" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjunlv.jpg" group-title="地方",NewTV军旅剧场(福建移动4M)
 http://39.135.53.196/ott.fj.chinamobile.com/PLTV/88888888/224/3221225887/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV精品记录" tvg-logo="http://www.nettv.live/uploads/18/1-1P426223225b6.jpg" group-title="地方",NewTV精品记录(福建移动4M)
+#EXTINF:-1 tvg-id="" tvg-name="NewTV精品记录" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjilu.jpg" group-title="地方",NewTV精品记录(福建移动4M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV武搏世界" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P426225Q10-L.jpg" group-title="地方",NewTV武搏世界(福建移动4M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225895/index.m3u8
@@ -222,7 +222,7 @@ http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫4(福建移动8M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226743/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SiTV动漫秀场" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SITV-CHILDREN/SITV-CHILDREN.jpg?1" group-title="地方",SiTV动漫秀场(福建移动8M)
+#EXTINF:-1 tvg-id="" tvg-name="SiTV动漫秀场" tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="地方",SiTV动漫秀场(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="SiTV全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="地方",SiTV全纪实(陕西移动8M)
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
@@ -243,7 +243,7 @@ rtsp://27.148.219.129:554/live/ch19040410203183192171.sdp?playtype=1&boid=001&ba
 rtsp://27.148.219.129:554/live/ch19061315471496603667.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19061315471496603667&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubLZ6kZcwAy0TmXOIMdHSKazerdOYCsl%2FDpsB63qDyEQtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 tvg-id="169" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方",上海纪实
 rtsp://27.148.219.129:554/live/ch17081012003923835755.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081012003923835755&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufulvucnQgYvxuYj2ObQUnQoD9AwrzYYOQdpttfUjhaLtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="" tvg-name="陶瓷" tvg-logo="" group-title="地方",江西陶瓷
+#EXTINF:-1 tvg-id="" tvg-name="江西陶瓷" tvg-logo="http://www.tvyan.com/uploads/dianshi/jxtv10.jpg" group-title="地方",江西陶瓷
 rtsp://27.148.219.129:554/live/ch17081012023517451748.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081012023517451748&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufulvucnQgYvxuYj2ObQUnQZbi9e3Bt09ozBM2ESiwZ7tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="地方",求索科学(七台河移动)
