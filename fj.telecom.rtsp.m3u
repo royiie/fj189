@@ -160,8 +160,6 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="超级综艺" tvg-logo="" group-title="地方",超级综艺(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="超级电视剧" tvg-logo="" group-title="地方",超级电视剧(宜春移动8M)
-http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV东北热剧(鸡西移动4M)
 http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
