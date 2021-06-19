@@ -130,11 +130,6 @@ rtsp://27.148.219.129:554/live/ch15102717162041774825.sdp?playtype=1&boid=001&ba
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电影(福建移动8M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",影视1(福建移动8M)
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",影视2(福建移动8M)
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电视剧1(福建移动4M)
 http://39.135.53.196/ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电视剧2(福建移动8M)
@@ -143,16 +138,21 @@ http://39.135.53.196/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电视剧4(福建移动8M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226754/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BesTV电视剧1(福建移动7M)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BesTV电视剧1(福建移动8M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227045/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BestV电视剧2(福建移动8M)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BesTV电视剧2(福建移动8M)
 http://39.135.53.196/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV超级电视剧(福建移动8M)
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV东北热剧(鸡西移动)
-http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV超级电影(福建移动8M)
+#EXTINF:-1 tvg-id="" tvg-name="超级电影" tvg-logo="" group-title="地方",超级电影(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225926/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="超级电视剧" tvg-logo="" group-title="地方",超级电视剧(福建移动8M)
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="超级体育" tvg-logo="" group-title="地方",超级体育(福建移动8M)
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="超级综艺" tvg-logo="" group-title="地方",超级综艺(福建移动4M)
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV东北热剧(鸡西移动4M)
+http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV精品大剧" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdaju.jpg" group-title="地方",NewTV精品大剧(福建移动4M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225889/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV军事评论" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjspl.jpg" group-title="地方",NewTV军事评论(福建移动4M)
@@ -171,10 +171,6 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV精品体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjpty.jpg" group-title="地方",NewTV精品体育(福建移动4M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225886/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV超级体育(福建移动8M)
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV超级综艺(福建移动4M)
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV金牌综艺" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvzongyi.jpg" group-title="地方",NewTV金牌综艺(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV动画王国" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdonghua.jpg" group-title="地方",NewTV动画王国(南京移动4M)
