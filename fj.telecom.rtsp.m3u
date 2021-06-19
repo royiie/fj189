@@ -224,7 +224,7 @@ http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226743/index.m
 
 #EXTINF:-1 tvg-id="" tvg-name="SiTV动漫秀场" tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="地方",SiTV动漫秀场(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8
-#EXTINF:-1 tvg-id="1976" tvg-name="SiTV全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="地方",SiTV全纪实(陕西移动8M)
+#EXTINF:-1 tvg-id="1976" tvg-name="SiTV全纪实" tvg-logo="http://www.tvyan.com/uploads/dianshi/quanjishi.jpg" group-title="地方",SiTV全纪实Documentary(陕西移动8M)
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="SiTV游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方",SiTV游戏风云(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
