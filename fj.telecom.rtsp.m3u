@@ -127,6 +127,14 @@ rtsp://27.148.219.129:554/live/ch15102717162009517302.sdp?playtype=1&boid=001&ba
 rtsp://27.148.219.129:554/live/ch17041318323608461611.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17041318323608461611&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucHtYhAF0s6wwh48Op25iOmev1F5PtW2MjhQ44pQ4CSytcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 tvg-id="" tvg-name="福建少儿" tvg-logo="http://www.tvyan.com/uploads/dianshi/fjtv9.jpg" group-title="地方",福建少儿
 rtsp://27.148.219.129:554/live/ch15102717162041774825.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162041774825&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkNDqvWMOeCbhp%2B%2Fa4FtAaXtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+#EXTINF:-1 tvg-id="" tvg-name="福建福州综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/fztv1.jpg" group-title="地方",福建福州综合(移动2M)
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="福建福州影视" tvg-logo="http://www.tvyan.com/uploads/dianshi/fztv2.jpg" group-title="地方",福建福州影视(移动2M)
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="福建福州生活" tvg-logo="http://www.tvyan.com/uploads/dianshi/fztv3.jpg" group-title="地方",福建福州生活(移动2M)
+http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="福建福州少儿" tvg-logo="http://www.tvyan.com/uploads/dianshi/fztv4.jpg" group-title="地方",福建福州少儿(移动2M)
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电视剧1(福建移动4M)
 http://39.135.53.196/ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8
@@ -204,6 +212,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NEWTV四川(黑龙江移动4M)
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NEWTV广西(黑龙江移动4M)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NEWTV云南(黑龙江移动4M)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="黑莓电影" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="地方",黑莓电影(福建移动4M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8
