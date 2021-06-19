@@ -50,7 +50,7 @@ rtsp://27.148.219.129:554/live/ch19073116244855666953.sdp?playtype=1&boid=001&ba
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/chcdzdy.jpg" group-title="地方",CHC动作电影(陕西移动8M)
 http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/chcjtyy.jpg" group-title="地方",CHC家庭影院(陕西移动8M)
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="http://www.tvyan.com/uploads/dianshi/chcjtyy.jpg" group-title="地方",CHC家庭影院(陕西移动8M)
 http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226462/index.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
@@ -128,8 +128,6 @@ rtsp://27.148.219.129:554/live/ch17041318323608461611.sdp?playtype=1&boid=001&ba
 #EXTINF:-1 tvg-id="" tvg-name="福建少儿" tvg-logo="http://www.tvyan.com/uploads/dianshi/fjtv9.jpg" group-title="地方",福建少儿
 rtsp://27.148.219.129:554/live/ch15102717162041774825.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162041774825&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrkNDqvWMOeCbhp%2B%2Fa4FtAaXtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电影(福建移动8M)
-http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电视剧1(福建移动4M)
 http://39.135.53.196/ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电视剧2(福建移动8M)
@@ -142,6 +140,8 @@ http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226754/index.m
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227045/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BesTV电视剧2(福建移动8M)
 http://39.135.53.196/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电影(福建移动8M)
+http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="超级电影" tvg-logo="" group-title="地方",超级电影(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225926/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="超级电视剧" tvg-logo="" group-title="地方",超级电视剧(福建移动8M)
