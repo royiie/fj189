@@ -5,9 +5,9 @@ rtsp://27.148.219.129:554/live/ch18122110190633826391.sdp?playtype=1&boid=001&ba
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BesTV4K" tvg-logo="" group-title="地方",BesTV 4K(福建移动)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",芒果TV 4k(福建移动)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/20/1-200Z620233NB.jpg" group-title="地方",芒果TV 4k(福建移动)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",SiTV-7欢笑剧场 4K(陕西移动12M)
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHH21000F2.jpg" group-title="地方",SiTV-7欢笑剧场 4K(陕西移动12M)
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合(陕西移动12M)
@@ -110,9 +110,9 @@ rtsp://27.148.219.129:554/live/ch18111315332814229891.sdp?playtype=1&boid=001&ba
 rtsp://27.148.219.129:554/live/ch15102717162125393898.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162125393898&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrk2EGR42Q3pRUep%2FWHWmwB%2FtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P331133954G1.jpg" group-title="地方",海峡卫视
 rtsp://27.148.219.129:554/live/ch17033111334107910034.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17033111334107910034&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubtTdIJCMYA5YzDa0YF1fIC2cN8doK0zGTVUThL7iS22tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-
 #EXTINF:-1 tvg-id="73" tvg-name="教育卫视" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_0312125120KN.jpg" group-title="地方",中国教育1台
 rtsp://27.148.219.129:554/live/ch17081012040985783403.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081012040985783403&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufulvucnQgYvxuYj2ObQUnRPOwC1kGvgGgf2PZxi%2FkP8tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
+
 #EXTINF:-1 tvg-id="" tvg-name="福建综合" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z505155I6353.jpg" group-title="地方",FJTV-1福建综合
 rtsp://27.148.219.129:554/live/ch18122115512978075826.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18122115512978075826&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uV8vrVVUWyrQhbVQ%2BpNmgiJi%2BBf0vCMeagcVdGQMouH3tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 tvg-id="" tvg-name="福建乡村振兴公共" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z505155911111.jpg" group-title="地方",FJTV-3福建乡村振兴公共
@@ -138,6 +138,17 @@ http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="福州少儿" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHQ14939323.jpg" group-title="地方",FZTV-4福州少儿(移动2M)
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2022254080-L.jpg" group-title="地方",浙江求索科学(七台河移动8M)
+http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZZ233615.jpg" group-title="地方",浙江求索动物(鸡西移动8M)
+http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P40Z954370-L.jpg" group-title="地方",浙江求索纪录(七台河移动8M)
+http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZZ414450.jpg" group-title="地方",浙江求索生活(鸡西移动8M)
+http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电影(福建移动8M)
+http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电视剧1(福建移动4M)
 http://39.135.53.196/ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电视剧2(福建移动8M)
@@ -150,9 +161,19 @@ http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226754/index.m
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227045/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BesTV电视剧2(福建移动8M)
 http://39.135.53.196/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电影(福建移动8M)
-http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫1(福建移动8M)
+http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226732/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫2(福建移动8M)
+http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫3(福建移动8M)
+http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫4(福建移动8M)
+http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226743/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NewTV黑莓动画" tvg-logo="https://www.nettvpro.live/uploads/19/1-191215202209426.jpg" group-title="地方",NewTV黑莓动画(福建移动4M)
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NewTV黑莓电影" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="地方",NewTV黑莓电影(福建移动4M)
+http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级电影" tvg-logo="https://www.nettvpro.live/uploads/20/1-20060514521Ca.jpg" group-title="地方",NewTV超级电影(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225926/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级电视剧" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P5031T9400-L.jpg" group-title="地方",NewTV超级电视剧(福建移动8M)
@@ -223,19 +244,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-200614222H00-L.jpg" group-title="地方",NewTV云南(黑龙江移动4M)
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NewTV黑莓电影" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="地方",NewTV黑莓电影(福建移动4M)
-http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV黑莓动画" tvg-logo="https://www.nettvpro.live/uploads/19/1-191215202209426.jpg" group-title="地方",NewTV黑莓动画(福建移动4M)
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫1(福建移动8M)
-http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226732/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫2(福建移动8M)
-http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫3(福建移动8M)
-http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫4(福建移动8M)
-http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226743/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P501135151462.jpg" group-title="地方",SiTV-1动漫秀场(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P51522224K51.jpg" group-title="地方",SiTV-2游戏风云(福建移动8M)
@@ -262,11 +270,3 @@ rtsp://27.148.219.129:554/live/ch19061315471496603667.sdp?playtype=1&boid=001&ba
 #EXTINF:-1 tvg-id="" tvg-name="江西陶瓷" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P503124210L2.jpg" group-title="地方",江西陶瓷
 rtsp://27.148.219.129:554/live/ch17081012023517451748.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081012023517451748&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufulvucnQgYvxuYj2ObQUnQZbi9e3Bt09ozBM2ESiwZ7tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2022254080-L.jpg" group-title="地方",浙江求索科学(七台河移动8M)
-http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZZ233615.jpg" group-title="地方",浙江求索动物(鸡西移动8M)
-http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P40Z954370-L.jpg" group-title="地方",浙江求索纪录(七台河移动8M)
-http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZZ414450.jpg" group-title="地方",浙江求索生活(鸡西移动8M)
-http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
