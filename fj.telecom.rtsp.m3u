@@ -7,8 +7,6 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/20/1-200Z620233NB.jpg" group-title="地方",芒果TV 4k(福建移动)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHH21000F2.jpg" group-title="地方",SiTV-7欢笑剧场 4K(陕西移动12M)
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合(陕西移动12M)
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
@@ -248,6 +246,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P51522224K51.jpg" group-title="地方",SiTV-2游戏风云(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHH21000F2.jpg" group-title="地方",SiTV-7欢笑剧场 4K(陕西移动12M)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="极速汽车" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P5131Z9270-L.gif" group-title="地方",SiTV-9极速汽车
 rtsp://27.148.219.129:554/live/ch16091400213802705119.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16091400213802705119&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uZvV9XTe8u6npT%2BKUQeCTXWX2fls0hXI0rdu%2Bf5iIvQ6tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1PHH216040-L.jpg" group-title="地方",SiTV-10生活时尚
