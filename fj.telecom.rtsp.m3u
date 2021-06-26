@@ -256,7 +256,7 @@ rtsp://27.148.219.129:554/live/ch16091400174619400545.sdp?playtype=1&boid=001&ba
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P5151UG1537.jpg" group-title="地方",SiTV-12都市剧场
 rtsp://27.148.219.129:554/live/ch16091400394519752904.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16091400394519752904&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ue3OERCfGYXv%2BfB7OsxsQ1I%2FOGlGIjuF8wudq6aVTXbftcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P5121J6453Z.jpg" group-title="地方",SiTV-23五星体育(联通4M)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P5121J6453Z.jpg" group-title="地方",SiTV-23五星体育(联通4M)
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5000000010000017540&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="1988" tvg-name="(上海)纪实人文" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P5121G151945.jpg" group-title="地方",上海纪实人文
