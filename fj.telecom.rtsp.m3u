@@ -202,7 +202,8 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225882/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P42622394O34.jpg" group-title="地方",NewTV惊悚悬疑(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225885/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV海外剧场" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P426224459244.jpg" group-title="地方",NewTV海外剧场(福建移动4M)
+#EXTINF:-1 tvg-id="" tvg-name="N
+ewTV海外剧场" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P426224459244.jpg" group-title="地方",NewTV海外剧场(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV潮妈辣婆" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P4262254200-L.jpg" group-title="地方",NewTV潮妈辣婆(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/index.m3u8
@@ -244,7 +245,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P501135151462.jpg" group-title="地方",SiTV-1动漫秀场(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P51522224K51.jpg" group-title="地方",SiTV-2游戏风云(福建移动8M)
+#EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P51522224K51.jpg" group-title="地方",SiTV-2游戏风云(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHH21000F2.jpg" group-title="地方",SiTV-7欢笑剧场 4K(陕西移动12M)
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
