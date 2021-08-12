@@ -4,7 +4,7 @@ rtsp://27.148.219.129:554/live/ch18122110190633826391.sdp?playtype=1&boid=001&ba
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2010041603070-L.jpg" group-title="地方",北京IPTV 4K(北京移动20M)
 http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-200614200Q30-L.jpg" group-title="地方",纯享 4K(陕西移动20M)
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/20/1-200Z620233NB.jpg" group-title="地方",芒果TV 4K(福建移动16M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BesTV4K" tvg-logo="" group-title="地方",BesTV 4K(杭州移动20M)
