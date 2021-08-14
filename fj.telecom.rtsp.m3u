@@ -177,8 +177,6 @@ http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225889/index.m
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225886/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV精品记录" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P426223225b6.jpg" group-title="地方",NewTV精品记录(福建移动4M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV中国功夫" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P423200320U1.jpg" group-title="地方",NewTV中国功夫(联通4M)
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="" tvg-name="NewTV农业致富" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P426222232647.jpg" group-title="地方",NewTV农业致富(联通4M)
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=4
 #EXTINF:-1 tvg-id="" tvg-name="NewTV明星大片" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P42616140Na.jpg" group-title="地方",NewTV明星大片(联通4M)
