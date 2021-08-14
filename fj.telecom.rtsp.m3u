@@ -87,8 +87,8 @@ http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 http://39.134.24.24/PLTV/88888888/224/3221225837/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视(安康移动16M)
 http://39.134.24.24/PLTV/88888888/224/3221225845/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视(渭南移动16M)
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+rtsp://27.148.219.129:554/live/ch15102717162168388215.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162168388215&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrmNIYM2Zss6bDqSwRNobsJhtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=8000 RTSP/1.0
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视(安康移动12M)
 http://39.134.24.24/PLTV/88888888/224/3221225833/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视(安康移动16M)
@@ -197,8 +197,6 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV金牌综艺" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P4262241042I.jpg" group-title="地方",NewTV金牌综艺(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV动画王国" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P42622491W48.jpg" group-title="地方",NewTV动画王国(南京移动4M)
-http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV爱情喜剧" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P4262300110-L.jpg" group-title="地方",NewTV爱情喜剧(福建移动4M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225877/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV怡伴健康" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-200612000H70-L.jpg" group-title="地方",NewTV怡伴健康(福建移动4M)
