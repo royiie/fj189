@@ -76,13 +76,6 @@ http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="福州少儿" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHQ14939323.jpg" group-title="地方",FZTV-4福州少儿(移动2M)
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z406133R5D0.jpg" group-title="地方",CHC高清电影(渭南移动8M)
-http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z406134234147.jpg" group-title="地方",CHC动作电影(陕西移动8M)
-http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z40613520I39.jpg" group-title="地方",CHC家庭影院(陕西移动8M)
-http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226462/index.m3u8
-
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
 rtsp://27.148.219.129:554/live/ch18011614354694706611.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117153251+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18011614354694706611&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucGvhYDHLV%2B%2FRrJjG87A6Wz7gphRsY4rBgMC6H9%2FFx%2BJ%2Bc8vhCO%2FxiEMdz%2F0nF%2FHDw%3D%3D&bitrate=8000 RTSP/1.0
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
@@ -143,15 +136,6 @@ rtsp://27.148.219.129:554/live/ch17033111334107910034.sdp?playtype=1&boid=001&ba
 #EXTINF:-1 tvg-id="73" tvg-name="教育卫视" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_0312125120KN.jpg" group-title="地方",中国教育1台
 rtsp://27.148.219.129:554/live/ch17081012040985783403.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081012040985783403&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufulvucnQgYvxuYj2ObQUnRPOwC1kGvgGgf2PZxi%2FkP8tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2022254080-L.jpg" group-title="地方",浙江求索科学(七台河移动8M)
-http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZZ233615.jpg" group-title="地方",浙江求索动物(鸡西移动8M)
-http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P40Z954370-L.jpg" group-title="地方",浙江求索纪录(七台河移动8M)
-http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZZ414450.jpg" group-title="地方",浙江求索生活(鸡西移动8M)
-http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电影(福建移动8M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",电视剧1(福建移动4M)
@@ -187,8 +171,6 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级综艺" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2006051445380-L.jpg" group-title="地方",NewTV超级综艺(福建移动4M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV东北热剧" tvg-logo="https://www.nettvpro.live/uploads/19/1-1912151US24O.jpg" group-title="地方",NewTV东北热剧(鸡西移动4M)
-http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV精品大剧" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P426223G10-L.jpg" group-title="地方",NewTV精品大剧(福建移动4M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225889/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV精品体育" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P426222R1296.jpg" group-title="地方",NewTV精品体育(福建移动4M)
@@ -217,8 +199,6 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV动画王国" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P42622491W48.jpg" group-title="地方",NewTV动画王国(南京移动4M)
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV欢乐剧场" tvg-logo="https://www.nettvpro.live/uploads/19/1-1912151U603307.jpg" group-title="地方",NewTV欢乐剧场(哈尔滨移动4M)
-http://39.135.135.81:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV爱情喜剧" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P4262300110-L.jpg" group-title="地方",NewTV爱情喜剧(福建移动4M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225877/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV怡伴健康" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-200612000H70-L.jpg" group-title="地方",NewTV怡伴健康(福建移动4M)
@@ -232,35 +212,16 @@ http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226699/index.m
 #EXTINF:-1 tvg-id="" tvg-name="NewTV军事评论" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P426221943132.jpg" group-title="地方",NewTV军事评论(福建移动4M)
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225890/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-200604095T70-L.jpg" group-title="地方",NewTV安徽(黑龙江移动4M)
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2006142252150-L.jpg" group-title="地方",NewTV广东(黑龙江移动4M)
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2006142230400-L.jpg" group-title="地方",NewTV吉林(黑龙江移动4M)
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2005231QR40-L.jpg" group-title="地方",NewTV江西(黑龙江移动4M)
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2006142252150-L.jpg" group-title="地方",NewTV山东(黑龙江移动4M)
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2006142232400-L.jpg" group-title="地方",NewTV四川(黑龙江移动4M)
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2006142224520-L.jpg" group-title="地方",NewTV广西(黑龙江移动4M)
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-200614222H00-L.jpg" group-title="地方",NewTV云南(黑龙江移动4M)
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P501135151462.jpg" group-title="地方",SiTV-1动漫秀场(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P51522224K51.jpg" group-title="地方",SiTV-2游戏风云(福建移动8M)
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHH21000F2.jpg" group-title="地方",SiTV-7欢笑剧场 4K(陕西移动12M)
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHH21000F2.jpg" group-title="地方",SiTV-7欢笑剧场 4K(南京移动12M)
+http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="极速汽车" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P5131Z9270-L.gif" group-title="地方",SiTV-9极速汽车
 rtsp://27.148.219.129:554/live/ch16091400213802705119.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16091400213802705119&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uZvV9XTe8u6npT%2BKUQeCTXWX2fls0hXI0rdu%2Bf5iIvQ6tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1PHH216040-L.jpg" group-title="地方",SiTV-10生活时尚
 rtsp://27.148.219.129:554/live/ch16091400174619400545.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16091400174619400545&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQln5C%2BNvw5z3QGpcdCQtRh%2B9t6LzHlNkMK04%2BsS86IOtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P512164S50-L.jpg" group-title="地方",SiTV-11全纪实(陕西移动8M)
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P5151UG1537.jpg" group-title="地方",SiTV-12都市剧场
 rtsp://27.148.219.129:554/live/ch16091400394519752904.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch16091400394519752904&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ue3OERCfGYXv%2BfB7OsxsQ1I%2FOGlGIjuF8wudq6aVTXbftcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 tvg-id="" tvg-name="五星体育" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P5121J6453Z.jpg" group-title="地方",SiTV-23五星体育(联通4M)
