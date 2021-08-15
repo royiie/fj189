@@ -22,15 +22,14 @@ rtsp://27.148.219.129:554/live/ch18011614353125275996.sdp?playtype=1&boid=001&ba
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P322210400B3.jpg" group-title="港澳台",翡翠台(香港2M)
 http://livetv.dnsfor.me:80/channel.18.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P50H25930492.jpg" group-title="港澳台",VIU TV(香港2M)
-http://livetv.dnsfor.me:80/channel.20.m3u8
-#EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P61115255U94.jpg" group-title="港澳台",三立台湾台(德克萨斯4m)
+
+#EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P61115255U94.jpg" group-title="港澳台",三立台湾台(德克萨斯4M)
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P50H240550-L.jpg" group-title="港澳台",三立iNews新闻台(加州2M)
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2002052044560-L.jpg" group-title="港澳台",三立Live新闻台(加州2M) 
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P503222359532.jpg" group-title="港澳台",中天新闻(加州2M)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P503222359532.jpg" group-title="港澳台",中天新闻台(加州2M)
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P4231R4102J.jpg" group-title="港澳台",壹电视新闻台(大阪亚马逊云4M)
 http://stream.nexttv.com.tw/n001/playlist.m3u8
