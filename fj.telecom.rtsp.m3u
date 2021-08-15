@@ -20,8 +20,6 @@ rtsp://27.148.219.129:554/live/ch18011614354694706611.sdp?playtype=1&boid=001&ba
 rtsp://27.148.219.129:554/live/ch18011614353125275996.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117153251+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18011614353125275996&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucGvhYDHLV%2B%2FRrJjG87A6Wy4udrzyR0CwgM8C6S9RDQy%2Bc8vhCO%2FxiEMdz%2F0nF%2FHDw%3D%3D&bitrate=8000 RTSP/1.0
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰卫视香港台(江苏移动10M)
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P322210400B3.jpg" group-title="港澳台",翡翠台(香港2M)
-http://livetv.dnsfor.me:80/channel.18.m3u8
 
 #EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P61115255U94.jpg" group-title="港澳台",三立台湾台(德克萨斯4M)
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
