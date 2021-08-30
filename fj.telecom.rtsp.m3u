@@ -73,24 +73,24 @@ rtsp://27.148.219.129:554/live/ch19073116244855666953.sdp?playtype=1&boid=001&ba
 #EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="央视",IPTV5+
 rtsp://27.148.219.129:554/live/ch18041916495291111646.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18041916495291111646&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubQoLzTn6N4S3v4taMPsscevMn4ZNO65OY9s3C22x7W5tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141G505606.jpg" group-title="央视",风云音乐(贵阳移动8M)
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141G315Y5.jpg" group-title="央视",世界地理(贵阳移动8M)
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="文化精品" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141H1325H.jpg" group-title="央视",文化精品(贵阳移动8M)
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141I942294.jpg" group-title="央视",女性时尚(贵阳移动8M)
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141I942294.jpg" group-title="央视",CCTV-18女性时尚(贵阳移动8M)
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141G544918.jpg" group-title="央视",风云剧场(贵阳移动8M)
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141G423240.jpg" group-title="央视",风云足球(贵阳移动8M)
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141J20T52.jpg" group-title="央视",怀旧剧场(贵阳移动8M)
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141J315L0.jpg" group-title="央视",第一剧场(贵阳移动8M)
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141J315L0.jpg" group-title="央视",CCTV-22第一剧场(贵阳移动8M)
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141J20T52.jpg" group-title="央视",CCTV-23怀旧剧场(贵阳移动8M)
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141G505606.jpg" group-title="央视",CCTV-25风云音乐(贵阳移动8M)
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141G423240.jpg" group-title="央视",CCTV-26风云足球(贵阳移动8M)
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141G315Y5.jpg" group-title="央视",CCTV-27世界地理(贵阳移动8M)
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141G544918.jpg" group-title="央视",CCTV-28风云剧场(贵阳移动8M)
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141J452591.jpg" group-title="央视",兵器科技(滁州电信8M)
 http://329s42n597.qicp.vip:65533/udp/238.1.79.56:4584
+#EXTINF:-1 tvg-id="" tvg-name="文化精品" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141H1325H.jpg" group-title="央视",文化精品(贵阳移动2M)
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/01.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z406133R5D0.jpg" group-title="地方",CHC高清电影(陕西移动8M)
 http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
