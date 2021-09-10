@@ -5,6 +5,14 @@ rtsp://27.148.219.129:554/live/ch18122110190633826391.sdp?playtype=1&boid=001&ba
 http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2006261952100-L.jpg" group-title="地方",4K超高清电影(成都广电8M)
 http://60.255.49.202/live/emdy4k_8000.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV 4K(广州联通16m)
+http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2010041603070-L.jpg" group-title="地方",北京IPTV 4K(北京移动20M)
+http://39.134.134.84/otttv.bj.chinamobile.com/tvod/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-200614200Q30-L.jpg" group-title="地方",纯享 4K(贵港移动16M)
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",咪咕 4K(贵港移动32M)
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PH92041345D.jpg" group-title="港澳台",凤凰卫视资讯台
 rtsp://27.148.219.129:554/live/ch18011614353125275996.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117153251+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18011614353125275996&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucGvhYDHLV%2B%2FRrJjG87A6Wy4udrzyR0CwgM8C6S9RDQy%2Bc8vhCO%2FxiEMdz%2F0nF%2FHDw%3D%3D&bitrate=8000 RTSP/1.0
@@ -21,7 +29,7 @@ https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2002052044560-L.jpg" group-title="港澳台",三立Live新闻台(首尔2M) 
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P503222359532.jpg" group-title="港澳台",中天新闻台(首尔2M)
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P503222359532.jpg" group-title="港澳台",中天新闻台(首尔2M)
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="7176" tvg-name="中视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻台(首尔2M)
 http://seb.sason.top/sc/zsxw_fhd.m3u8
@@ -33,8 +41,16 @@ http://seb.sason.top/sc/msxw_fhd.m3u8
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经新闻台(首尔2M)
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P506204425640.jpg" group-title="港澳台",TVBS新闻台(首尔2M)
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P506204425640.jpg" group-title="港澳台",TVBS新闻台(加州2M)
+http://www.1314lm.com/mylive/102/2055/index.m3u8
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="https://www.nettvpro.live/uploads/18/1-1Q20Q3403A46.jpg" group-title="港澳台",TVBS(加州2M)
+http://www.1314lm.com/mylive/102/2056/index.m3u8
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P430225332926.jpg" group-title="港澳台",非凡新闻台(加州2M)
+http://www.1314lm.com/mylive/102/2055/index.m3u8
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1PQ3234T00-L.jpg" group-title="港澳台",年代新闻台(加州2M)
+http://www.1314lm.com/mylive/102/2050/index.m3u8
+#EXTINF:-1 tvg-id="6068" tvg-name="无线新闻台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZG925S9.jpg" group-title="港澳台",无线新闻台粤语(腾讯云2M)
+https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
 
 #EXTINF:-1 ,tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 rtsp://27.148.219.129:554/live/ch15102717162070203827.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162070203827&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlvKI11OWuBsstWqQszeVDttcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
