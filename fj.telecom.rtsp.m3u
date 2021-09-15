@@ -11,6 +11,8 @@ http://39.134.134.84/otttv.bj.chinamobile.com/tvod/88888888/224/3221226550/1.m3u
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",咪咕 4K(广西移动32M)
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",4K花园娱乐(南京移动24M)
+http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PH92041345D.jpg" group-title="港澳台",凤凰卫视资讯台
 rtsp://27.148.219.129:554/live/ch18011614353125275996.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117153251+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18011614353125275996&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucGvhYDHLV%2B%2FRrJjG87A6Wy4udrzyR0CwgM8C6S9RDQy%2Bc8vhCO%2FxiEMdz%2F0nF%2FHDw%3D%3D&bitrate=8000 RTSP/1.0
@@ -191,6 +193,8 @@ rtsp://27.148.219.129:554/live/ch15102717162125393898.sdp?playtype=1&boid=001&ba
 http://27.148.240.181/PLTV/88888888/224/3221227098/index.m3u8?rrsip=27.148.240.138&zoneoffset=480&servicetype=1&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E14HuFdwK8A4owksx2rBmIA%7EFy2eiN4yCIl6lRvTPByU-tVda0RyXB76qZmFXVO1rTxBY1I3OyZGzDstmWKbaYdNtnVjSv601IxTS4DE9lpI0vrlNU6k6ZAnS57Rm0uJawI%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20210903165926%2C10500000500736%2C125.77.92.207%2C20210903165926%2CUmai%3ACHAN%2F181362%40BESTV.SMG.SMG%2C1000100055602320210903165926%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHBSYOPOyEMTExeAC9mroVJBSYG5j49sLk1vb7v_SfHGg8H9UwEzGP72JUgmkgaoemGM2K7mX-ECmPk4wLIXnCqtU5ETQqCtFi7p_otmXxSnSfVqMyvuaW4Ds74t62Yb452jDDavsdy10k0ziTUuwPbFqvFfhuIewFPh97Cw7NZWyCoGogj8yC7qDBAnr8lw_e1ZmlyQ-zddNb1QAAAA
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视(兰州移动8M)
 http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo=http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视(泉州电信4M)
+http://live.m2oplus.nmtv.cn/1/playlist.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="教育卫视" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_0312125120KN.jpg" group-title="地方",中国教育1台
 rtsp://27.148.219.129:554/live/ch17081012040985783403.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081012040985783403&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufulvucnQgYvxuYj2ObQUnRPOwC1kGvgGgf2PZxi%2FkP8tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z51122051RT.jpg" group-title="地方",北京冬奥纪实(南京移动8M)
