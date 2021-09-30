@@ -11,7 +11,11 @@ http://39.134.134.84/otttv.bj.chinamobile.com/tvod/88888888/224/3221226550/1.m3u
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",咪咕 4K(广西移动32M)
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",4K花园生活(南京移动24M)
+http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",4K花园娱乐(南京移动24M)
+http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",4K花园影视(南京移动24M)
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PH92041345D.jpg" group-title="港澳台",凤凰卫视资讯台
