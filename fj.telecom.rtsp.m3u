@@ -58,6 +58,8 @@ http://www.1314lm.com/mylive/102/2050/index.m3u8
 #EXTINF:-1 tvg-id="6068" tvg-name="无线新闻台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P40ZG925S9.jpg" group-title="港澳台",无线新闻台粤语(腾讯云2M)
 https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
 
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K(广州联通16M)
+http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 ,tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 rtsp://27.148.219.129:554/live/ch15102717162070203827.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162070203827&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlvKI11OWuBsstWqQszeVDttcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 ,tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
