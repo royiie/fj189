@@ -113,9 +113,9 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/ind
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141G544918.jpg" group-title="央视",CCTV-28风云剧场(贵阳移动8M)
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141J452591.jpg" group-title="央视",兵器科技(滁州电信8M)
-http://329s42n597.qicp.vip:65533/udp/238.1.79.56:4584
-#EXTINF:-1 tvg-id="" tvg-name="文化精品" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141H1325H.jpg" group-title="央视",文化精品(贵阳移动2M)
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/01.m3u8?fmt=ts2hls
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="文化精品" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4141H1325H.jpg" group-title="央视",文化精品(贵阳移动8M)
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z406133R5D0.jpg" group-title="地方",CHC高清电影(陕西移动8M)
 http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
