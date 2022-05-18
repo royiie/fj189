@@ -10,8 +10,8 @@ rtsp://27.148.219.129:554/live/ch18011614354694706611.sdp?playtype=1&boid=001&ba
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P4231R4102J.jpg" group-title="港澳台",壹电视新闻台(大阪亚马逊云4M)
 http://stream.nexttv.com.tw/n001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K(香港阿里云20M)
-https://p.ggiptv.com/v/4k.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K(香港24M)
+http://ye23.win/iptv/4k.cctv.php
 #EXTINF:-1 ,tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 rtsp://27.148.219.129:554/live/ch15102717162070203827.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162070203827&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlvKI11OWuBsstWqQszeVDttcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 ,tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
@@ -44,7 +44,7 @@ rtsp://27.148.219.129:554/live/ch15102717162008550635.sdp?playtype=1&boid=001&ba
 rtsp://27.148.219.129:554/live/ch17092208120898287250.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208120898287250&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubns1MJW12LoPNCNY7LsyOyv5DUtRd8oc%2BQ%2Bby%2FK7so4tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 rtsp://27.148.219.129:554/live/ch15102717162037072744.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162037072744&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrlvY2g8SzF4nir%2FMoPrl55otcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
-#EXTINF:-1 tvg-id="7249" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1ZP41A0430-L.jpg" group-title="央视",CCTV-16奥林匹克(泉州电信4M)
+#EXTINF:-1 tvg-id="7249" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥林匹克(泉州电信4M)
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
 rtsp://27.148.219.129:554/live/ch19073116244855666953.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19073116244855666953&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uYlmqEeSiY7ilafGBzytHgeQXMXS1D9Bq7YYS3stvjq5tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
@@ -78,7 +78,9 @@ rtsp://27.148.237.40:554/live/ch17092110554866036216.sdp?playtype=1&FccMediaIP=2
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="福州影视" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHQ14550648.jpg" group-title="地方",FZTV-2福州影视(福州电信2M)
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="福州生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHQ14K1433.jpg" group-title="地方",FZTV-3福州生活(福州电信2M)
+#EXTINF:-1 tvg-id="" tvg-name="福州生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHQ1
+
+1433.jpg" group-title="地方",FZTV-3福州生活(福州电信2M)
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="福州少儿" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHQ14939323.jpg" group-title="地方",FZTV-4福州少儿(福州电信2M)
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
