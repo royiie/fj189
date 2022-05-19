@@ -78,9 +78,7 @@ rtsp://27.148.237.40:554/live/ch17092110554866036216.sdp?playtype=1&FccMediaIP=2
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="福州影视" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHQ14550648.jpg" group-title="地方",FZTV-2福州影视(福州电信2M)
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="福州生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHQ1
-
-1433.jpg" group-title="地方",FZTV-3福州生活(福州电信2M)
+#EXTINF:-1 tvg-id="" tvg-name="福州生活" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHQ11433.jpg" group-title="地方",FZTV-3福州生活(福州电信2M)
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="福州少儿" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHQ14939323.jpg" group-title="地方",FZTV-4福州少儿(福州电信2M)
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
