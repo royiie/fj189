@@ -10,9 +10,9 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="爱自然" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2006232302250-L.jpg" group-title="地方",爱自然(东京亚马逊云8M)
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PH92041345D.jpg" group-title="港澳台",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰卫视资讯台
 rtsp://27.148.219.129:554/live/ch18011614353125275996.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117153251+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18011614353125275996&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucGvhYDHLV%2B%2FRrJjG87A6Wy4udrzyR0CwgM8C6S9RDQy%2Bc8vhCO%2FxiEMdz%2F0nF%2FHDw%3D%3D&bitrate=8000 RTSP/1.0
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://www.nettvpro.live/uploads/18/1-1Q123210631396.jpg" group-title="港澳台",凤凰卫视中文台
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰卫视中文台
 rtsp://27.148.219.129:554/live/ch18011614354694706611.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117153251+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18011614354694706611&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucGvhYDHLV%2B%2FRrJjG87A6Wz7gphRsY4rBgMC6H9%2FFx%2BJ%2Bc8vhCO%2FxiEMdz%2F0nF%2FHDw%3D%3D&bitrate=8000 RTSP/1.0
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K(泛播Cloudflare32M)
