@@ -160,18 +160,19 @@ rtsp://27.148.219.129:554/live/ch16091400394519752904.sdp?playtype=1&boid=001&ba
 #EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png" group-title="地方",SiTV-12东方财经
 rtsp://27.148.240.181/PLTV/88888888/224/3221225755/10000100000000060000000000417526_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EOqXure4qA0gNqYYoBtzuWQ%7EYDm42J0nrDWCt8Mpzr2RLjrmwCuX-YV3zQNTOH9YtTtBY1I3OyZGzDstmWKbaYdNj_6X81Oq4ABzO3ICBn__lSZe1nOH14oxqLyvI8KBYug%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20221123232524%2C10500000500736%2C125.77.95.137%2C20221123232524%2CUmai%3ACHAN%2F11383%40BESTV.SMG.SMG%2C1000100055602320221123232523%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2Oyw6CMBBF_6bLBqryWHSFMTExdQG6NWMZKmGgtQUT_15AdjNz7snc0YPG81EOExEL-FZWCqaBqB2MsvWC7mXxECmP9xkXIuEZqxbnRGBktEbV1D_Rb8vsleg_rUZZh4Y7gu_kiQfXrvPN04YZVtvvOElycYhEmse7lI3LtYLQzYS9IBS2d-CxvlizCrIBCsgc6A4MKujxX371rr6em_wAyuC36tUAAAA
 
-#EXTINF:-1 tvg-id="" tvg-name="神乐影片·1" tvg-logo=" " group-title="地方",「轮播」神乐影片·1
-http://epg.112114.xyz/douyu/122402
-#EXTINF:-1 tvg-id="" tvg-name="神乐影片·2" tvg-logo=" " group-title="地方",「轮播」神乐影片·2
-http://epg.112114.xyz/douyu/85894
-#EXTINF:-1 tvg-id="" tvg-name="电影1厅" tvg-logo=" " group-title="地方",「轮播」贝爷影厅·1
-http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 tvg-id="" tvg-name="电影2厅" tvg-logo=" " group-title="地方",「轮播」贝爷影厅·2
-http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-id="" tvg-name="可乐电影" tvg-logo=" " group-title="地方",「轮播」可乐电影
+#EXTINF:-1 tvg-id="" tvg-name="奶虫恐怖电影" tvg-logo=" " group-title="地方",奶虫恐怖电影 10M
+http://epg.112114.xyz/douyu/263824
+#EXTINF:-1 tvg-id="" tvg-name="可乐电影" tvg-logo=" " group-title="地方",可乐电影 8M
 http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 tvg-id="" tvg-name="华语电影" tvg-logo=" " group-title="地方",「轮播」华语电影
-http://epg.112114.xyz/douyu/3928
-#EXTINF:-1 tvg-id="" tvg-name="猫和老鼠" tvg-logo=" " group-title="地方",「轮播」猫和老鼠
-http://epg.112114.xyz/douyu/7888428
-
+#EXTINF:-1 tvg-id="" tvg-name="小宇60帧电影" tvg-logo=" " group-title="地方",小宇60帧电影 8M
+http://epg.112114.xyz/douyu/323876
+#EXTINF:-1 tvg-id="" tvg-name="神乐影片·1" tvg-logo=" " group-title="地方",神乐影片·1 6M
+http://epg.112114.xyz/douyu/122402
+#EXTINF:-1 tvg-id="" tvg-name="神乐影片·2" tvg-logo=" " group-title="地方",神乐影片·2 6M
+http://epg.112114.xyz/douyu/85894
+#EXTINF:-1 tvg-id="" tvg-name="电影1厅" tvg-logo=" " group-title="地方",贝爷影厅·1 6M
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 tvg-id="" tvg-name="电影2厅" tvg-logo=" " group-title="地方",贝爷影厅·2 4M
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 tvg-id="" tvg-name="IMAX影厅" tvg-logo=" " group-title="地方",IMAX影厅 4M
+http://epg.112114.xyz/douyu/4332
