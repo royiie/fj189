@@ -189,7 +189,7 @@ http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jkys8m/8000000/mnf.
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="华语影院" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="BesTV",华语影院(福州电信8M)
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="星光影院" tvg-logo=" " group-title="BesTV",星光影院(福州电信8M)
+#EXTINF:-1 tvg-id="" tvg-name="星光影院" tvg-logo=" " group-title="BesTV",星光影院(福州电信8M)
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="红色谍战剧场" tvg-logo=" " group-title="BesTV",谍战剧场(福州电信8M)
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
