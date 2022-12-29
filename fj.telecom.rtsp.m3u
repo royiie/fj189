@@ -65,7 +65,7 @@ http://iptv.cooltv.top/tv/aishang.php?id=chcgqdy
 #EXTINF:-1 tvg-id="6246" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="地方",CHC家庭影院(香港阿里云8M)
 http://iptv.cooltv.top/tv/aishang.php?id=chcjtyy
 
-#EXTINF:-1 tvg-id="" tvg-name="福州新闻综合" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHQ1434N22.jpg" group-title="地方",FZTV-1福州新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="福州新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/fztv1.jpg" group-title="地方",FZTV-1福州新闻综合
 rtsp://27.148.237.40:554/live/ch18021018575987660580.sdp?playtype=1&FccMediaIP=239.61.2.212&FccMediaPort=9260&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18021018575987660580&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldQCLJ9sPedsyluVQ%2FQv%2B%2BNWGMZYVIIe8zidKqdkWrFpm6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
 
 #EXTINF:-1 tvg-id="" tvg-name="福建综合" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z505155I6353.jpg" group-title="地方",FJTV-1福建综合
