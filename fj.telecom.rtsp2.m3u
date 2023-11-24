@@ -1,25 +1,8 @@
+#EXTINF:-1 ,凤凰资讯
+rtsp://27.148.219.129:554/live/ch18011614353125275996.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117153251+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18011614353125275996&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucGvhYDHLV%2B%2FRrJjG87A6Wy4udrzyR0CwgM8C6S9RDQy%2Bc8vhCO%2FxiEMdz%2F0nF%2FHDw%3D%3D&bitrate=8000 RTSP/1.0
+#EXTINF:-1 ,凤凰中文
+rtsp://27.148.219.129:554/live/ch18011614354694706611.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117153251+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18011614354694706611&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucGvhYDHLV%2B%2FRrJjG87A6Wz7gphRsY4rBgMC6H9%2FFx%2BJ%2Bc8vhCO%2FxiEMdz%2F0nF%2FHDw%3D%3D&bitrate=8000 RTSP/1.0
 
-
-#EXTINF:-1 tvg-id="101" tvg-name="IPTV经典电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="地方",IPTV经典电影(泛播24M)
-http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 tvg-id=" " tvg-name="斗鱼4K" tvg-logo=" " group-title="其他",斗鱼4K(泛播Cloudflare24M)
-http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 tvg-id="" tvg-name="奶虫恐怖电影" tvg-logo=" " group-title="其他",奶虫恐怖电影 10M
-http://epg.112114.xyz/douyu/263824
-#EXTINF:-1 tvg-id="" tvg-name="可乐电影" tvg-logo=" " group-title="其他",可乐电影 8M
-http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 tvg-id="" tvg-name="小宇60帧电影" tvg-logo=" " group-title="其他",小宇60帧电影 8M
-http://epg.112114.xyz/douyu/323876
-#EXTINF:-1 tvg-id="" tvg-name="神乐影片·1" tvg-logo=" " group-title="其他",神乐影片·1 6M
-http://epg.112114.xyz/douyu/122402
-#EXTINF:-1 tvg-id="" tvg-name="神乐影片·2" tvg-logo=" " group-title="其他",神乐影片·2 6M
-http://epg.112114.xyz/douyu/85894
-#EXTINF:-1 tvg-id="" tvg-name="电影1厅" tvg-logo=" " group-title="其他",贝爷影厅·1 6M
-http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 tvg-id="" tvg-name="电影2厅" tvg-logo=" " group-title="其他",贝爷影厅·2 4M
-http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-id="" tvg-name="IMAX影厅" tvg-logo=" " group-title="其他",IMAX影厅 4M
-http://epg.112114.xyz/douyu/4332
 
 
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P60420161Q14.jpg" group-title="地方",湖南快乐垂钓
