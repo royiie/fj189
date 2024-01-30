@@ -58,8 +58,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 rtsp://27.148.240.181/PLTV/88888888/224/3221226149/10000100000000060000000000783420_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EZmOoP2nwQpuDraQoJdP1BA%7EFIjUY_xsMdTCq8OvNvFiM_wUARl9hYJdxwNuPvHi8S5BY1I3OyZGzDstmWKbaYdNoAAS8-wDhv6oFT3VzSuCfv3IiS4jc-3xPychXBtUbkc%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20231027222024%2C10500000500736%2C125.77.95.31%2C20231027222024%2C10000100000000050000000000795353%2C1000100055602320231027222023%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" ,凤凰卫视中文台
 rtsp://27.148.240.181/PLTV/88888888/224/3221226148/10000100000000060000000000783423_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ekz_ENXGrcqZaFPWx3Kf9mA%7EFIjUY_xsMdTCq8OvNvFiM_wUARl9hYJdxwNuPvHi8S5BY1I3OyZGzDstmWKbaYdNoAAS8-wDhv6oFT3VzSuCfv3IiS4jc-3xPychXBtUbkc%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20231027222024%2C10500000500736%2C125.77.95.31%2C20231027222024%2C10000100000000050000000000795358%2C1000100055602320231027222023%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视香港台.png" ,凤凰香港中文台(泛播8M)
-https://0472.org/hls/youzaiSB/fhhk.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视香港台.png" ,凤凰香港中文台(江苏移动8M)
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name="苏州网络电视" tvg-logo=" " ,苏州网络电视4k(纽约大学16M)
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
