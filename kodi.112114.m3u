@@ -27,7 +27,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png"",CCTV6(陕西20MV6)
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
-
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8(江苏12MV6)
+http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227473/index.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" ,CHC动作电影
 rtsp://27.148.240.181/PLTV/88888888/224/3221227170/70545651.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ETbenDiDEr6laGnwSzQ2wtg%7EYDm42J0nrDWCt8Mpzr2RLjrmwCuX-YV3zQNTOH9YtTtBY1I3OyZGzDstmWKbaYdNj_6X81Oq4ABzO3ICBn__lSZe1nOH14oxqLyvI8KBYug%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20221123232524%2C10500000500736%2C125.77.95.137%2C20221123232524%2Curn%3AHuawei%3AliveTV%3AXTV70545650%2C1000100055602320221123232523%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2Oyw6CMBBF_6bLBqryWHSFMTExdQG6NWMZKmGgtQUT_15AdjNz7snc0YPG81EOExEL-FZWCqaBqB2MsvWC7mXxECmP9xkXIuEZqxbnRGBktEbV1D_Rb8vsleg_rUZZh4Y7gu_kiQfXrvPN04YZVtvvOElycYhEmse7lI3LtYLQzYS9IBS2d-CxvlizCrIBCsgc6A4MKujxX371rr6em_wAyuC36tUAAAA
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png",CHC家庭影院(陕西移动8MV6)
