@@ -53,7 +53,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png",上海第一财经(上海移动8MV6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="爱自然" tvg-logo="https://live.fanmingming.com/tv/LOVENATURE.png" ,爱自然(东京亚马逊云8M)
+#EXTINF:-1 tvg-id=" " tvg-name="爱自然" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" ,爱自然(东京亚马逊云8M)
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" ,凤凰卫视资讯台(江苏移动8M)
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
