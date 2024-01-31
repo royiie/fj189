@@ -64,8 +64,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/32212
 
 #EXTINF:-1 tvg-id=" " tvg-name="苏州网络电视" tvg-logo=" " ,苏州网络电视4k(纽约大学16M)
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="爱自然" tvg-logo="https://live.fanmingming.com/tv/LOVENATURE.png" ,爱自然(东京亚马逊云8M)
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" ,CCTV-1综合
 http://27.148.240.181/PLTV/88888888/224/3221227263/index.m3u8?rrsip=27.148.240.138&zoneoffset=480&servicetype=1&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EfvrOPO4PTqSZxq48sc30RQ%7Erhjb5CEnbbyJCtqLQRv4aF3jI-ywKlx21wHKbwjDwoJBY1I3OyZGzDstmWKbaYdNDwKw3GYpkJp6LdFYGCN3YhJdCttDtpv0IV2xnFQW_AY%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20231125223947%2C10500000500736%2C117.29.50.84%2C20231125223947%2C00000001000000050000000000000152%2C1000100055602320231125223947%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHBYaBcdgJY2Ji5gH0aioUJBQ2NzDx7YXJre33f-k_O6jxfFTTQsQ8vrVRgtVA1E-dNs2G7mXxEBmPD5ILkfKDZNUmnQg6FYWsXsYnun1ZxRLdp69RNb7lluC7OOLe9mG-Odoxw2p_HmdRlAuZJokUOZu3awV-WAl7gS_MaMFhczFdEFQL5JFZqAfoUMOI__bBu7pmbfID_jK5z9YAAAA
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" ,CCTV-2财经
