@@ -3,7 +3,7 @@
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="华数高清" tvg-name="华数高清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png",华数 (陕西移动32MV6)
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="真4K" tvg-name="真4K" tvg-logo=" " ,真4K修复(江苏移动8MV6)
+#EXTINF:-1 tvg-id="真4K" tvg-name="真4K" tvg-logo=" " ,真4K修复(江苏移动16MV6)
 http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw3859899175_1232992871/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png",纯享4K(江苏移动24MV6)
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3154895646_1897439205/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
@@ -32,9 +32,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1535864683_104020061/
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" ,CHC动作电影
 rtsp://27.148.240.181/PLTV/88888888/224/3221227170/70545651.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ETbenDiDEr6laGnwSzQ2wtg%7EYDm42J0nrDWCt8Mpzr2RLjrmwCuX-YV3zQNTOH9YtTtBY1I3OyZGzDstmWKbaYdNj_6X81Oq4ABzO3ICBn__lSZe1nOH14oxqLyvI8KBYug%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20221123232524%2C10500000500736%2C125.77.95.137%2C20221123232524%2Curn%3AHuawei%3AliveTV%3AXTV70545650%2C1000100055602320221123232523%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2Oyw6CMBBF_6bLBqryWHSFMTExdQG6NWMZKmGgtQUT_15AdjNz7snc0YPG81EOExEL-FZWCqaBqB2MsvWC7mXxECmP9xkXIuEZqxbnRGBktEbV1D_Rb8vsleg_rUZZh4Y7gu_kiQfXrvPN04YZVtvvOElycYhEmse7lI3LtYLQzYS9IBS2d-CxvlizCrIBCsgc6A4MKujxX371rr6em_wAyuC36tUAAAA
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png",CHC家庭影院(陕西移动8MV6)
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png",CHC高清电影(陕西移动8MV6)
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png",兵器科技(陕西移动8MV6)
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png",怀旧剧场(陕西移动8MV6)
