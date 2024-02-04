@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="8K测试" tvg-name="8K测试" tvg-logo="https://live.fanmingming.com/tv/8K.png" ,8K测试(江苏移动40MV6)
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" ,爱上4K(海南20MV6)
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="华数高清" tvg-name="华数高清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png",华数 (陕西移动32MV6)
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="真4K" tvg-name="真4K" tvg-logo=" " ,真4K修复(江苏移动16MV6)
 http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw3859899175_1232992871/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png",纯享4K(江苏移动24MV6)
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cx4k.png",纯享4K(江苏移动24MV6)
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3154895646_1897439205/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV-4K(江苏移动12MV6)
 http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
@@ -49,8 +49,6 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png",风云音乐(陕西移动8MV6)
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png",第一剧场(陕西移动8MV6)
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png",女性时尚(陕西移动8MV6)
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 
@@ -204,7 +202,7 @@ rtsp://27.148.219.129:554/live/ch16091400394519752904.sdp?playtype=1&boid=001&ba
 rtsp://27.148.240.181/PLTV/88888888/224/3221225755/10000100000000060000000000417526_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EOqXure4qA0gNqYYoBtzuWQ%7EYDm42J0nrDWCt8Mpzr2RLjrmwCuX-YV3zQNTOH9YtTtBY1I3OyZGzDstmWKbaYdNj_6X81Oq4ABzO3ICBn__lSZe1nOH14oxqLyvI8KBYug%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20221123232524%2C10500000500736%2C125.77.95.137%2C20221123232524%2CUmai%3ACHAN%2F11383%40BESTV.SMG.SMG%2C1000100055602320221123232523%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2Oyw6CMBBF_6bLBqryWHSFMTExdQG6NWMZKmGgtQUT_15AdjNz7snc0YPG81EOExEL-FZWCqaBqB2MsvWC7mXxECmP9xkXIuEZqxbnRGBktEbV1D_Rb8vsleg_rUZZh4Y7gu_kiQfXrvPN04YZVtvvOElycYhEmse7lI3LtYLQzYS9IBS2d-CxvlizCrIBCsgc6A4MKujxX371rr6em_wAyuC36tUAAAA
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" ,上海第一财经
 rtsp://27.148.240.181/PLTV/88888888/224/3221227221/69373178.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ExhTLzcHvFKcEZmU7VIz0kA%7EO1TacnH7LrMH5wGlzh8kk-AbrkVXmJs2wqg4M1WGefpBY1I3OyZGzDstmWKbaYdN8xK6n6y__aw0LuH9yZ6qxHb_V_NeGszu7NIudhgxux8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230121222917%2C10500000500736%2C125.77.93.54%2C20230121222917%2CUmai%3ACHAN%2F1346062%40BESTV.SMG.SMG%2C1000100055602320230121222916%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2Oyw6CMBBF_6bLBmotuugKY2JicAG6NWM7VsLwsAUT_16o7Gbm3JO5oweDp4PuJiIW8F30WjADRHXnit4u6Fbmd5HxVO64EIrLPasW6UjgdBKzxdQ-0K_LLJboP7VBbcOTDwTfyRMPQx3nq6cVM6zW56nK5EaqbZJkmWLjcq0gNDNhLwh53w7g0Z57FwX9BArIBjANOCygxX_76F28nZv8ANLOZnDWAAAA
-#EXTINF:-1 tvg-id="上视纪实" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" ,上海纪实人文
+#EXTINF:-1 tvg-id="上视纪实" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" ,上海纪实人文
 rtsp://27.148.219.129:554/live/ch17081012003923835755.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081012003923835755&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufulvucnQgYvxuYj2ObQUnQoD9AwrzYYOQdpttfUjhaLtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" ,湖南金鹰纪实
