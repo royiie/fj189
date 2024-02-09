@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="8K测试" tvg-name="8K测试" tvg-logo="https://live.fanmingming.com/tv/8K.png" ,8K测试(江苏移动40MV6)
-http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" ,爱上4K(海南20MV6)
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="华数高清" tvg-name="华数高清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png",华数(陕西移动32MV6)
