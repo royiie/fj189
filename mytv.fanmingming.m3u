@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png",CCTV-8K(24M)
+http://mtw.so/62HqYI
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K(20M)
 http://27.148.240.181/PLTV/88888888/224/3221227333/index.m3u8?rrsip=27.148.240.138&zoneoffset=480&servicetype=2&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EoiKgRpG7P2BEoaUjYg_MZg%7EdIj-G1VKm-PdQ23aw87a7TdMWBJMkQB62hxU7dTy1DNBY1I3OyZGzDstmWKbaYdNPGMjYGJwippR9KLok8gmYrYg32qNKE73Dg_EULops-c%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20240131221107%2C10500000500736%2C125.77.93.83%2C20240131221107%2C00000001000000050000000000000626%2C1000100055602320240131221107%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2Oyw6CMBBF_6bLBhrSsukKY2Ji6gJ0a8Z2rIThYQsm_r1Q2c3MuSdz5wAWTwc9LEQs4tuMWjALRO3gzeg2dKuru1A8L0ouhORFyZpNOhJ4naWsWfoHhn1ZxRrDp7WoXXzyieC7BOJxatN8DbRjhs3-PFeZVLlUMpN5webt2kDsVsJeEKuxnyCgO48-CfoJFJFNYDvwaKDHf_vkXYJbm_wAOSqIGdYAAAA
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
