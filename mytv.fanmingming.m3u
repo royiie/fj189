@@ -127,7 +127,7 @@ http://27.148.240.185/PLTV/88888888/224/3221226912/index.m3u8?rrsip=27.148.240.1
 http://27.148.240.185/PLTV/88888888/224/3221227075/index.m3u8?rrsip=27.148.240.138&zoneoffset=480&servicetype=1&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E7ZaE6QQWtJ_xJeTNDdqK7w%7Erhjb5CEnbbyJCtqLQRv4aF3jI-ywKlx21wHKbwjDwoJBY1I3OyZGzDstmWKbaYdNDwKw3GYpkJp6LdFYGCN3YhJdCttDtpv0IV2xnFQW_AY%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20231125223947%2C10500000500736%2C117.29.50.84%2C20231125223947%2CUmai%3ACHAN%2F79472%40BESTV.SMG.SMG%2C1000100055602320231125223947%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHBYaBcdgJY2Ji5gH0aioUJBQ2NzDx7YXJre33f-k_O6jxfFTTQsQ8vrVRgtVA1E-dNs2G7mXxEBmPD5ILkfKDZNUmnQg6FYWsXsYnun1ZxRLdp69RNb7lluC7OOLe9mG-Odoxw2p_HmdRlAuZJokUOZu3awV-WAl7gS_MaMFhczFdEFQL5JFZqAfoUMOI__bBu7pmbfID_jK5z9YAAAA
 
 
-#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="数字频道",爱上4K(陕西20MV6)
+#EXTINF:-1 tvg-name="华数4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huashu4k.png" group-title="数字频道",爱上&华数4K(陕西20MV6)
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-name="爱自然"  tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" group-title="数字频道",爱自然(东京亚马逊云8M)
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
