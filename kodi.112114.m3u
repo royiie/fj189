@@ -131,14 +131,14 @@ rtsp://27.148.240.181/PLTV/88888888/224/3221227018/46507950.smil?rrsip=27.148.24
 
 #EXTINF:-1 tvg-name="华数4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huashu4k.png" group-title="数字频道",爱上&华数4K(陕西20MV6)
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="数字频道",苏州网络电视4k(纽约大学16M)
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="爱自然" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" group-title="数字频道",爱自然(东京亚马逊云8M)
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="数字频道",凤凰卫视资讯台
 rtsp://27.148.240.181/PLTV/88888888/224/3221226149/10000100000000060000000000783420_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EZmOoP2nwQpuDraQoJdP1BA%7EFIjUY_xsMdTCq8OvNvFiM_wUARl9hYJdxwNuPvHi8S5BY1I3OyZGzDstmWKbaYdNoAAS8-wDhv6oFT3VzSuCfv3IiS4jc-3xPychXBtUbkc%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20231027222024%2C10500000500736%2C125.77.95.31%2C20231027222024%2C10000100000000050000000000795353%2C1000100055602320231027222023%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="数字频道",凤凰卫视中文台
 rtsp://27.148.240.181/PLTV/88888888/224/3221226148/10000100000000060000000000783423_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ekz_ENXGrcqZaFPWx3Kf9mA%7EFIjUY_xsMdTCq8OvNvFiM_wUARl9hYJdxwNuPvHi8S5BY1I3OyZGzDstmWKbaYdNoAAS8-wDhv6oFT3VzSuCfv3IiS4jc-3xPychXBtUbkc%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20231027222024%2C10500000500736%2C125.77.95.31%2C20231027222024%2C10000100000000050000000000795358%2C1000100055602320231027222023%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND
-#EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="数字频道",苏州网络电视4k(纽约大学16M)
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",湖南金鹰纪实
 rtsp://27.148.240.181/PLTV/88888888/224/3221226977/10000100000000060000000001790778_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EK-b-BF2KMYfFHBtvJSE2OQ%7EO1TacnH7LrMH5wGlzh8kk-AbrkVXmJs2wqg4M1WGefpBY1I3OyZGzDstmWKbaYdN8xK6n6y__aw0LuH9yZ6qxHb_V_NeGszu7NIudhgxux8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230121222917%2C10500000500736%2C125.77.93.54%2C20230121222917%2C10000100000000050000000001819504%2C1000100055602320230121222916%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2Oyw6CMBBF_6bLBmotuugKY2JicAG6NWM7VsLwsAUT_16o7Gbm3JO5oweDp4PuJiIW8F30WjADRHXnit4u6Fbmd5HxVO64EIrLPasW6UjgdBKzxdQ-0K_LLJboP7VBbcOTDwTfyRMPQx3nq6cVM6zW56nK5EaqbZJkmWLjcq0gNDNhLwh53w7g0Z57FwX9BArIBjANOCygxX_76F28nZv8ANLOZnDWAAAA
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="数字频道",纪实科教
