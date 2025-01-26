@@ -127,10 +127,6 @@ http://27.148.240.181/PLTV/88888888/224/3221226912/index.m3u8?rrsip=27.148.240.1
 http://27.148.240.181/PLTV/88888888/224/3221227075/index.m3u8?rrsip=27.148.240.138&zoneoffset=480&servicetype=2&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E7ZaE6QQWtJ_xJeTNDdqK7w%7EF0rKIxiHnxNMfNGgYZFeb4QGzfKgiL4DzsVXsaRDFFdBY1I3OyZGzDstmWKbaYdNMG7hYmJHfwOJP2j17V-k06se7WBr7UTcykxB0mYItKo%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20240706222720%2C10500000500736%2C110.88.59.15%2C20240706222720%2CUmai%3ACHAN%2F79472%40BESTV.SMG.SMG%2C1000100055602320240706222720%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHBabIPOyEMTEx8wB6NXWrSCgwNzDx7YXJre33f-k_ejB4Oqh-ImIB33pQghkgavpaD3ZBt7K4i5ynW8mF2HHJqsU5EtQqiVE9dQ_06zJ7JfpPY1DZ8OSO4Dt54sE1cb56WjHDav2d5iIRUiZZtk82bFyuFYR2JuwFoRg6Bx7teaijoJ5AAZkD00KNGjr8l4_exdu5yQ_YNzNp1QAAAA
 
 
-#EXTINF:-1 tvg-name="华数4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huashu4k.png" group-title="数字频道",爱上&华数4K(陕西20MV6)
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="数字频道",苏州网络电视4k(纽约大学16M)
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="爱自然" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" group-title="数字频道",爱自然(东京亚马逊云8M)
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",湖南金鹰纪实
